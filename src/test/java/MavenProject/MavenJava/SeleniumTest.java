@@ -10,5 +10,8 @@ public class SeleniumTest {
 	@Test
 	public void sampleTest3() {
 		System.out.println("Hihello");
+		
+		System.out.println("selenium");
+
 }
 }
